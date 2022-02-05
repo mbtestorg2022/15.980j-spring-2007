@@ -14,18 +14,147 @@ Overview
 
 This course introduces new product development. Topics include technology transfer, relations between science and technology, and the innovation process.
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | Technology transfer: Where and how do new product ideas originate? |
-| 3 | Relations between science and technology |
-| 4 | The technological gatekeeper: Care and feeding |
-| 5 | Reward systems for engineers and scientists |
-| 6 | The innovation process: How should we organize? |
-| 7 |  {{< br >}}{{< br >}} Examples of the use of physical space to accomplish organizational goals {{< br >}}{{< br >}} Guest lecturer: Prof. Gunter Henn {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Some examples: Steelcase; BMW FIZ; Skoda; Volkswagen's Glass Factory {{< br >}}{{< br >}} Guest lecturer: Prof. Gunter Henn {{< br >}}{{< br >}}  |
-| 9 | The downside of project organization: Conformity and the aging of project teams |
-| 10 | The matrix: Curse or asset? |
-| 11 | Physical space and its interaction with organizational space |
-| 12 | Effects of geographical location on communication patterns |
-| 13 | Student reports
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Technology transfer: Where and how do new product ideas originate?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Relations between science and technology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The technological gatekeeper: Care and feeding
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Reward systems for engineers and scientists
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The innovation process: How should we organize?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Examples of the use of physical space to accomplish organizational goals
+
+Guest lecturer: Prof. Gunter Henn
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Some examples: Steelcase; BMW FIZ; Skoda; Volkswagen's Glass Factory
+
+Guest lecturer: Prof. Gunter Henn
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The downside of project organization: Conformity and the aging of project teams
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The matrix: Curse or asset?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Physical space and its interaction with organizational space
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Effects of geographical location on communication patterns
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Student reports
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
