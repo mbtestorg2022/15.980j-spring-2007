@@ -4,6 +4,7 @@ description: Lecture slides about the effects of physical location on communicat
   patterns.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-980j-organizing-for-innovative-product-development-spring-2007/f5f4fdd2911a2da61a8d55e379046e7e_lec11a.pdf
 file_type: application/pdf
+parent_uid: 375820af-ddad-578a-82d6-b9686bf8f3fa
 resourcetype: Document
 title: lec11a.pdf
 uid: f5f4fdd2-911a-2da6-1a8d-55e379046e7e
